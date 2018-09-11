@@ -1,2 +1,2 @@
 # kaggle
-This is to keep track of all kaggle competition particiaption!!
+This is to keep track of all kaggle competition participation!!
